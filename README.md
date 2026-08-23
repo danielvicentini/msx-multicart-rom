@@ -29,14 +29,14 @@ Jogos devem ser de até 32K
 
 ### Dados do cartucho gerado
 
--Formato ASCII8 - automaticamente detectado pelos emuladores  
--Permite até 2MB de jogos - +- 64 jogos de 32K, porém menu não suporta  
-esta qtde de opcoes ainda - hoje max=20.
+- Formato ASCII8 - automaticamente detectado pelos emuladores  
+- Permite até 2MB de jogos - aprox. 64 jogos de 32K, porém menu não suporta  
+esta qtde de opcoes ainda hoje (limite max=20).
 
 ### Melhorias para o futuro
 
--Menu para 64 jogos  
--Suporte a Cartucho megaROM  
+- Menu para 64 jogos  
+- Suporte a Cartucho megaROM  
 
 
 
