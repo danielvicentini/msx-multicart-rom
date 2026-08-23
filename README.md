@@ -44,6 +44,7 @@ esta qtde de opcoes ainda - hoje max=20.
 ## Exemplo de saída
 
 
+```
 >C:\msx\multirom>python build_multicart.py  
 
   MSX MULTI-ROM BUILDER v5
@@ -79,4 +80,5 @@ esta qtde de opcoes ainda - hoje max=20.
   Mapper:  ASCII8 (auto-detectavel)
   
   Teste: arraste multicart.rom no WebMSX
+```
 
