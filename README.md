@@ -1,5 +1,9 @@
 ## Multicart ROM Builder para MSX
 
+13 de setembro de 2026
+
+Build 14 atualizada. Consulte techdoc.md.
+
 23 de agosto de 2026
 
 Meu projeto de criação de um único cartucho com multiplas Roms e menu de seleção ao longo do boot.  
@@ -35,6 +39,7 @@ esta qtde de opcoes ainda hoje (limite max=20).
 
 ### Melhorias para o futuro
 
+- Suporte para permitir que jogos especificos possam ser inseridos (ex.: Magical Kid Wiz, Thexder)
 - Menu para 64 jogos  
 - Suporte a Cartucho megaROM  
 
