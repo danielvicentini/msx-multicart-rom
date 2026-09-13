@@ -7,8 +7,8 @@ Build 14 atualizada. Consulte techdoc.md.
 23 de agosto de 2026
 
 Meu projeto de criação de um único cartucho com multiplas Roms e menu de seleção ao longo do boot.  
-Inicialmente criado de uma idéia de gerar uma única .rom para a família Nemesis do MSX - até o momento em Hold devido  
-aos desafios de bank switching dos próprios jogos. 
+Inicialmente criado de uma idéia de gerar uma única .rom para a família Nemesis do MSX - até o momento  
+em Hold devido aos desafios de bank switching dos próprios jogos. 
 
 ### Requisitos
 
